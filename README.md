@@ -7,4 +7,5 @@ My default template Repository for creating other repositories
 ![stars](https://img.shields.io/github/stars/agneay/Hugging-Face-Tutorials?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/Hugging-Face-Tutorials?style=for-the-badge)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agneay/Hugging-Face-Tutorials/hugging_face_Dummy_Agent_Library.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agneay/Hugging-Face-Tutorials/blob/main/hugging_face_Dummy_Agent_Library.ipynb)
+
